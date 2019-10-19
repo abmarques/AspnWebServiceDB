@@ -28,7 +28,7 @@
                         <asp:Label ID="lblStatus" runat="server" Text='<%# Eval("Status") %>'></asp:Label>
                     </ItemTemplate>
                 </asp:TemplateField>
-                <asp:TemplateField HeaderText="Nome" ItemStyle-Width="150">
+                <asp:TemplateField HeaderText="Nome" ItemStyle-Width="300">
                     <ItemTemplate>
                         <asp:Label ID="lblNome" runat="server" Text='<%# Eval("Nome") %>'></asp:Label>
                     </ItemTemplate>
