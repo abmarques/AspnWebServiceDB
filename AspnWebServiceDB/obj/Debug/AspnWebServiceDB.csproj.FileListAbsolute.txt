@@ -34,3 +34,38 @@ C:\Users\Academia Brilhante\source\repos\AspnWebServiceDB\AspnWebServiceDB\obj\D
 C:\Users\Academia Brilhante\source\repos\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.csproj.CopyComplete
 C:\Users\Academia Brilhante\source\repos\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.dll
 C:\Users\Academia Brilhante\source\repos\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.pdb
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\AspnWebServiceDB.dll.config
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\AspnWebServiceDB.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\AspnWebServiceDB.pdb
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\csc.exe
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\csc.exe.config
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\csc.rsp
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\csi.exe
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\csi.rsp
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\System.AppContext.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\System.Collections.Immutable.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\System.IO.FileSystem.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\vbc.exe
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\vbc.exe.config
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\vbc.rsp
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\VBCSCompiler.exe
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\roslyn\VBCSCompiler.exe.config
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.csprojAssemblyReference.cache
+C:\src\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.csproj.CopyComplete
+C:\src\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.dll
+C:\src\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.pdb

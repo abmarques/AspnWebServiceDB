@@ -6,17 +6,38 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            color: #0033CC;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
         </div>
-        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" BackColor="#CCCCCC" BorderColor="#999999" BorderStyle="Solid" BorderWidth="3px" CellPadding="4" CellSpacing="2" ForeColor="Black" OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
+        <asp:GridView ID="gdvAlunos" runat="server" AutoGenerateColumns="False" BackColor="#CCCCCC" BorderColor="#999999" BorderStyle="Solid" BorderWidth="3px" CellPadding="4" CellSpacing="2" ForeColor="Black" OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
             <Columns>
-                <asp:BoundField HeaderText="Id" />
-                <asp:BoundField HeaderText="Status" />
-                <asp:BoundField HeaderText="Nome" />
-                <asp:BoundField HeaderText="Matricula" />
+                <asp:TemplateField HeaderText="Id" ItemStyle-Width="50">
+                    <ItemTemplate>
+                         <asp:Label ID="lblId" runat="server" Text='<%# Eval("Id") %>'></asp:Label>
+                     </ItemTemplate>
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="Status" ItemStyle-Width="50">
+                    <ItemTemplate>
+                        <asp:Label ID="lblStatus" runat="server" Text='<%# Eval("Status") %>'></asp:Label>
+                    </ItemTemplate>
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="Nome" ItemStyle-Width="150">
+                    <ItemTemplate>
+                        <asp:Label ID="lblNome" runat="server" Text='<%# Eval("Nome") %>'></asp:Label>
+                    </ItemTemplate>
+                 </asp:TemplateField>
+                <asp:TemplateField HeaderText="Matricula" ItemStyle-Width="100">
+                    <ItemTemplate>
+                        <asp:Label ID="lblMatricula" runat="server" Text='<%# Eval("Matricula") %>'></asp:Label>
+                    </ItemTemplate>
+                 </asp:TemplateField>
             </Columns>
             <FooterStyle BackColor="#CCCCCC" />
             <HeaderStyle BackColor="Black" Font-Bold="True" ForeColor="White" />

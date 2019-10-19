@@ -11,6 +11,16 @@ namespace AspnWebServiceDB
     {
         protected void Page_Load(object sender, EventArgs e) {
 
+            if (!this.IsPostBack) {
+                this.VincularDados();
+            }
+        }
+
+        private void VincularDados()
+        {
+            ServiceDB service = new ServiceDB();
+            gdvAlunos.DataSource = service.GetDados();
+            gdvAlunos.DataBind();
         }
 
         protected void GridView1_SelectedIndexChanged(object sender, EventArgs e) {
