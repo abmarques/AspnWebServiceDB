@@ -23,7 +23,7 @@ namespace AspnWebServiceDB
         public DataTable GetDados() {
             string constr = ConfigurationManager.ConnectionStrings["conexaoBanco"].ConnectionString;
             using (SqlConnection con = new SqlConnection(constr)) {
-                using (SqlCommand cmd = new SqlCommand("Select top 10 * from [fitness].[viw_aluno]] order by id desc")) {
+                using (SqlCommand cmd = new SqlCommand("Select top 10 * from [fitness].[viw_aluno] order by id desc")) {
                     using (SqlDataAdapter sda =  new SqlDataAdapter()) {
                         cmd.Connection = con;
                         sda.SelectCommand = cmd;

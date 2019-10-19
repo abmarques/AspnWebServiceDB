@@ -35,7 +35,7 @@
                  </asp:TemplateField>
                 <asp:TemplateField HeaderText="Matricula" ItemStyle-Width="100">
                     <ItemTemplate>
-                        <asp:Label ID="lblMatricula" runat="server" Text='<%# Eval("Matricula") %>'></asp:Label>
+                        <asp:Label ID="lblMatricula" runat="server" Text='<%# Eval("Codigo") %>'></asp:Label>
                     </ItemTemplate>
                  </asp:TemplateField>
             </Columns>
